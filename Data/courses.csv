@@ -1,0 +1,41 @@
+course_id,title,category,instructor_id,price
+1,Cybersecurity 101 - Intermediate,Web Development,16,2499
+2,SQL Basics - Beginner,Data Science,16,1499
+3,ETL with Airflow - Advanced,Data Science,19,4499
+4,Data Visualization - Intermediate,Data Science,16,1499
+5,Angular Deep Dive - Advanced,Cloud,19,999
+6,Docker & Kubernetes - Beginner,Security,2,1999
+7,React for Beginners - Intermediate,Cloud,5,3499
+8,Introduction to Databases - Beginner,Data Science,12,3999
+9,Angular Deep Dive - Beginner,Data Science,10,4999
+10,Full Stack Web Dev - Advanced,Web Development,6,1499
+11,ETL with Airflow - Beginner,Security,11,3499
+12,Cybersecurity 101 - Intermediate,Cloud,12,1499
+13,NLP with Transformers - Advanced,Data Science,5,999
+14,Machine Learning A-Z - Advanced,Data Science,12,4499
+15,Flask REST APIs - Intermediate,Web Development,4,2499
+16,Machine Learning A-Z - Advanced,Web Development,7,4999
+17,ETL with Airflow - Advanced,Security,18,4999
+18,Data Science with Python - Intermediate,DevOps,3,1499
+19,Machine Learning A-Z - Beginner,DevOps,12,2999
+20,Angular Deep Dive - Beginner,DevOps,20,4999
+21,React for Beginners - Beginner,Cloud,10,999
+22,Data Science with Python - Beginner,Web Development,5,2499
+23,Cybersecurity 101 - Beginner,Web Development,5,1499
+24,Flask REST APIs - Advanced,Database,3,999
+25,Hadoop & Spark - Intermediate,Database,7,1499
+26,Advanced PostgreSQL - Advanced,Security,19,999
+27,Hadoop & Spark - Beginner,Data Science,2,1499
+28,Cybersecurity 101 - Advanced,Database,4,1499
+29,ETL with Airflow - Beginner,Security,7,1999
+30,Angular Deep Dive - Beginner,Database,5,2999
+31,Data Visualization - Intermediate,Data Science,6,4999
+32,ETL with Airflow - Beginner,Security,19,1499
+33,Data Science with Python - Advanced,Database,17,2499
+34,NoSQL for Developers - Intermediate,Web Development,18,999
+35,Data Science with Python - Beginner,Security,16,3499
+36,Data Visualization - Beginner,DevOps,4,1999
+37,Angular Deep Dive - Intermediate,DevOps,7,4999
+38,Cloud Essentials - Intermediate,Database,11,1499
+39,Big Data Fundamentals - Beginner,Security,5,4499
+40,Angular Deep Dive - Advanced,Data Science,18,999
